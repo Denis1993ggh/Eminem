@@ -1,0 +1,63 @@
+.article1{
+  display: inline-block;
+  position: absolute;
+  width: 350px;
+  height: 200px;
+  left: 260px;
+  top:-10px;
+  background-color: white;
+  border-color: black;
+  border: 3px solid black;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.go1{
+  pointer-events: none;
+}
+
+.singerlist:hover     .article1{  
+  opacity: 1;
+}
+
+
+
+.go1{
+  width: 90px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.go2{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+  font-size: 13px;
+  color:rgb(35, 194, 35);
+  font-weight: bolder;
+}
+.go3{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+.go4{
+  font-weight: bolder;
+  font-size: 12px;
+  color:rgb(62, 208, 62);
+  margin-bottom: 0;
+}
+.go5{
+  margin-top: 0;
+  font-weight: bolder;
+}
+.go6{
+  background-color: yellow;
+}
+
+.go7{
+  margin-left: 15px;
+  width: 300px;
+}

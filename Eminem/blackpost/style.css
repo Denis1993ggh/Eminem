@@ -1,0 +1,145 @@
+.blackpost{
+  background-color: black;
+  width: 100%;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.jose{
+  margin-left: 717px;
+  font-size: 15px;
+  color: rgb(146, 146, 146);
+}
+.jose:hover{
+  cursor: pointer;
+}
+
+.firstline1{
+  margin-bottom: 0;
+  color: white;
+  display: grid;
+  grid-template-columns: 200px 200px 100px 100px 100px;
+ width: 830px;
+ margin-left: 550px;
+ font-size: 17px;
+}
+.shot1,
+.shot2,
+.shot3,
+.shot4,
+.shot5{
+  color: yellow;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.shot1:hover,
+.shot2:hover,
+.shot3:hover,
+.shot4:hover,
+.shot5:hover{
+ color:rgb(117, 117, 234);
+ cursor: pointer;
+}
+.shot2{
+  margin-left: -85px;
+}
+.shot3{
+  margin-left: -105px;
+}
+.shot4{
+  margin-left: -150px;
+}
+.shot5{
+  margin-left: -199px;
+}
+
+.secondline2{
+  margin-top: 30px;
+  color: white;
+  display: inline-block;
+ width: 1200px;
+ margin-left: 280px;
+ margin-top: -30px;
+ font-size: 17px;
+}
+.shot6,
+.shot7,
+.shot8,
+.shot9,
+.shot10,
+.shot11,
+.shot12,
+.shot13,
+.shot14{
+  color: yellow;
+  font-weight: bolder;
+  display: inline-block;
+  margin-left: 10px;
+}
+.shot6:hover,
+.shot7:hover,
+.shot8:hover,
+.shot9:hover,
+.shot10:hover,
+.shot11:hover,
+.shot12:hover,
+.shot13:hover,
+.shot14:hover{
+  cursor: pointer;
+  color: rgb(91, 91, 232);
+}
+
+.thirdline3{
+  color:rgb(187, 185, 185);
+  margin-left: 650px;
+  font-weight: bolder;
+}
+
+.shot15{
+  color:rgb(62, 165, 249);
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 230px;
+}
+.shot16{
+  color: white;
+  display: inline-block;
+  margin-left: 10px;
+}
+.shot17{
+  color:rgb(112, 182, 239);
+  display: inline-block;
+   margin-left: 30px;
+}
+.a{
+  display: inline-block;
+  margin-left: 15px;
+}
+.a:hover{
+  cursor: pointer;
+}
+
+.shot18{
+  color:rgb(112, 182, 239);
+  display: inline-block;
+   margin-left: 390px;
+   margin-top: 20px;
+   font-size: 16px;
+}
+
+.b{
+  display: inline-block;
+  margin-left: 20px;
+  font-weight: bolder;
+}
+.b:hover{
+  cursor: pointer;
+}
+.white{
+  color: white;
+}
+.shot19{
+  margin-left: 10px;
+  color: white;
+}

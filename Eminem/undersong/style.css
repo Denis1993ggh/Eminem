@@ -1,0 +1,74 @@
+
+.show3,
+.show4{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(96, 95, 95);
+  margin-left: 10px;
+  margin-top: 3px;
+  padding-top: 6px;
+}
+.undersong{
+  margin-top: 5px;
+  height: 30px;
+  width:580px;
+margin-left: 725px;
+background-color: white;
+}
+.undersong2{
+  margin-top: 5px;
+  height: 30px;
+  width:580px;
+margin-left: 725px;
+background-color: white;
+}
+.undersong3{
+  height: 30px;
+  width:580px;
+margin-left: 725px;
+background-color: white;
+}
+.undersong4{
+  height: 30px;
+  width:580px;
+margin-left: 725px;
+background-color: white;
+margin-top: 5px;
+}
+.undersong4:hover,
+.undersong3:hover,
+.undersong2:hover,
+.undersong:hover{
+  cursor: pointer;
+}
+
+
+.undersong5{
+  display: grid;
+  grid-template-columns: 420px 300px;
+  margin-left: 730px;
+  margin-top: 0px;
+  box-shadow: 0px 1px 0px black;
+  width: 575px;
+}
+.show5{
+  font-size: 14px;
+  color:rgb(146, 142, 142);
+}
+.show6{
+  font-size: 14px;
+  color: red;
+}
+.show6:hover{
+  cursor: pointer;
+}
+
+.show7{
+  font-size: 14px;
+  color:rgb(146, 142, 142);
+  margin-left: 730px;
+  margin-top: 30px;
+}
+.popal2{
+  margin-top: 70px;
+}

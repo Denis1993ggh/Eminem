@@ -1,0 +1,177 @@
+.lastimage,
+.lastimage2{
+  width: 100px;
+  margin-left: 10px;
+margin-bottom: 0;
+display: inline-block;
+}
+.lastimage2{
+  height:90px;
+  width: 90px;
+}
+
+.lastpost{
+  margin-left: 730px;
+  margin-top: 0px;
+  display: inline-block;
+  position: absolute;
+  background-color: white;
+  width: 570px;
+  z-index: 7;
+
+}
+.lastpost2{
+ margin-top: 0px;
+ margin-left: 730px;
+ width: 570px;
+ background-color: white;
+ display: inline-block;
+ padding-top: 10px;
+ position: relative;
+}
+.show8{
+  margin-top: 380px;
+  margin-left: 730px;
+  color: rgb(167, 162, 162);
+  display: inline-block;
+}
+.lastpar{
+  width: 340px;
+display: inline-block;
+margin-left: 10px;
+font-weight: 600;
+margin-bottom: 0;
+}
+
+.lastpar2{
+  display: inline-block;
+  color: black;
+  font-weight: 600;
+  vertical-align: top;
+  margin-top: 5px;
+  margin-left: 5px;
+  width: 130px;
+}
+.great{
+  font-size: 14px;
+  font-weight: 400;
+}
+.undersongspost2{
+display: inline-block;
+background-color: white;
+width: 570px;
+margin-left: 730px;
+height: 35px;
+background-color: white;
+margin-top: 5px;
+}
+
+.undersongspost2:hover{
+  background-color: rgb(236, 231, 231);
+  cursor: pointer;
+  
+}
+.header1{
+  margin-left: 10px;
+  background-color: rgb(157, 255, 157);
+  font-size: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  width: 470px;
+  font-weight: 500;
+  padding-right: 5px;
+  z-index: 1;
+}
+.go{
+  width:35px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+.littleeminem{
+ display: grid;
+ grid-template-columns: 70px 400px 1fr;  
+}
+.rap{
+  margin-top: 0px;
+  font-size: 12px;
+  color: rgb(8, 195, 8);
+  margin-left: -5px;
+}
+
+.name2{
+  margin-left: 65px;
+  margin-top: -35px;
+  font-weight: 600;
+}
+.number0{
+  margin-left: 128px;
+  margin-top: -33px;
+  font-size: 14px;
+  background-color: yellow;
+  width: 47px;
+}
+
+.seven{
+  color:rgb(173, 169, 169);
+}
+
+.lasttext{
+  width: 500px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.together{
+  color:rgb(166, 161, 161);
+  font-size: 18px;
+  font-weight: bolder;
+}
+.togethertoo{
+  color:green;
+  font-weight: 600;
+  font-size: 18px;
+}
+.together:hover{
+  cursor: pointer;
+  color: green;
+}
+.togethertoo:hover{
+  cursor: pointer;
+  color:red;
+}
+
+.rightline{
+  display: flex;
+  margin-left: 370px;
+  margin-top: -56px;
+  }
+  .rightthing2{
+    margin-left: 10px;
+  }
+  .rightthing3{
+    margin-left: 10px;
+  }
+  .rightthing4{
+    margin-left: 10px;
+  }
+  .rightthing:hover,
+  .rightthing2:hover,
+  .rightthing3:hover,
+  .rightthing4:hover{
+    cursor: pointer;
+    background-color: rgb(207, 202, 202);
+  }
+
+  .twoo{
+    width: 15px;
+    background-color: rgb(127, 168, 238);
+  text-align: center;
+  border-radius: 50%;
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+  position: absolute;
+  top: -13px;
+  }

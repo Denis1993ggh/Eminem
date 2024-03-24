@@ -1,0 +1,91 @@
+.all{
+  display: inline-block;
+  position: relative;
+}
+
+.contrib{
+  border-bottom: 1px solid currentColor;
+  font-weight: 600;
+}
+.contrib:hover{
+  cursor: pointer;
+}
+.headtitle{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.story{
+  margin-left: 300px;
+  margin-top: 20px;
+  width: 380px;
+  background-color: rgb(255, 255, 255);
+padding: 5px 5px 5px 10px;
+filter: drop-shadow( 0px 0px 2px  rgb(149, 146, 146));
+font-family: Arial, Helvetica, sans-serif;
+padding-bottom: 60px;
+}
+
+.info1{
+  font-size: 15px;
+}
+.bluetext{
+color: rgb(61, 61, 238);
+}
+.bluetext:hover{
+  cursor: pointer;
+}
+.like,
+.dislike{
+  width: 20px;
+}
+.number{
+  width: 20px;
+  color: green;
+  cursor: pointer;
+}
+.lastline{
+display: grid;
+grid-template-columns: 30px 60px 30px 10px 1fr 1fr;
+align-items: center;
+}
+.like:hover{
+  background-color:green;
+  cursor: pointer;
+}
+.dislike:hover{
+  background-color:red;
+  cursor: pointer;
+}
+
+.icon{
+  width: 20px;
+  margin-left: 180px;
+  object-fit: cover;
+}
+
+.icon:hover{
+  cursor: pointer;
+  background-color: rgb(210, 205, 205);
+  padding: 1px 1px 1px 1px;
+}
+
+.six{
+  margin-left: 200px;
+
+}
+
+.six:hover{
+  cursor: pointer;
+  background-color: rgb(192, 188, 188);
+}
+
+.arrow{
+  margin-left: 20px;
+ height: 20px;
+} 
+
+.arrow:hover{
+  cursor: pointer;
+  background-color: rgb(210, 205, 205);
+}

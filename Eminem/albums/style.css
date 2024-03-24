@@ -1,0 +1,101 @@
+.popal{
+  margin-top: 0;
+  font-weight: 600;
+  color:rgb(175, 170, 170);
+  margin-left: 730px;
+}
+.albums{
+  display: grid;
+  grid-template-columns: 188px 1fr 1fr;
+  margin-left: 730px;
+  width: 220px;
+  margin-top: 0px;
+}
+
+.allalbums{
+  width:180px;
+  padding-left: 10px;
+  padding-top: 20px;
+  background-color: white;
+  display: inline-block;
+}
+.allalbums:hover{
+  background-color: rgb(220, 213, 213);
+}
+
+.image1{
+  width: 140px;
+  margin-left: 10px;
+}
+
+.the1,
+.the7,
+.the8,
+.the9,
+.the10{
+  width: 190px;
+  font-size: 12px;
+  margin-left: 22px;
+  margin-top: 3px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+.the9{
+  margin-left: 50px;
+}
+.the10{
+  margin-left: 36px;
+}
+.the7{
+  margin-left: 28px;
+}
+.the8{
+  margin-left: 58px;
+}
+.the2{
+  font-weight: 600;
+  margin-left: 28px;
+  margin-top: 2px;
+  font-size: 12px;
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+.the3{
+  font-weight: 600;
+  margin-left: 65px;
+  font-size: 12px;
+  color: gray;
+  margin-top: 5px;
+}
+
+.undersongspost1{
+  display: inline-block;
+  background-color:white;
+  width: 570px;
+  margin-left: 0px;
+height: 35px;
+background-color: white;
+margin-top: 5px;
+}
+
+.show2{
+  margin-left: 175px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(110, 110, 110);
+  margin-top: 10px;
+}
+
+.undersongspost1:hover{
+background-color: rgb(216, 215, 215);
+cursor: pointer;
+}
+
+.popal2{
+  margin-top: 100px;
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: 80px;
+  color:rgb(175, 170, 170);
+  margin-left: 730px;
+}

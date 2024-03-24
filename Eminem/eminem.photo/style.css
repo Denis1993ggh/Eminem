@@ -1,0 +1,66 @@
+.eminemcover{
+  width:1446px;
+  height: 290px;
+  object-fit: cover;
+  filter:blur(2px);
+  transform: scale(1.1);
+  margin-top: 12px;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.photobig{
+  position: relative;
+  z-index: 3;
+}
+
+.one,
+.two,
+.three{
+  width: 120px;
+  display: inline-block;
+}
+
+.one{
+  font-size: 16px;
+  margin-top: 13px;
+}
+.follow{
+  width: 120px;
+  display: inline-block;
+  margin-left: 0;
+}
+.two{
+  color: red;
+  font-weight: 500;
+}
+.words2{
+  margin-left: 20px;
+}
+.words3{
+  margin-left: 20px;
+}
+.underwords{
+  color: white;
+  display: grid;
+  grid-template-columns: 80px 50px 80px 1fr;
+  position: absolute;
+  font-weight: bold;
+  left: 700px;
+  top: 270px;
+  z-index: 2;
+}
+.underwords:hover{
+  cursor: pointer;
+}
+
+.eminemprofile{
+  width: 300px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 3;
+  top: 140px;
+  left: 340px;
+  border:solid;
+  border-color: rgb(95, 212, 95);
+}
